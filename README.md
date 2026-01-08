@@ -1,7 +1,7 @@
 # Image Augmentation Pipeline
 
-This project demonstrates **image augmentation** using TensorFlow/Keras.  
-Image augmentation is a key technique in **machine learning (ML)** and **deep learning (DL)** workflows, as it increases the size and diversity of the training dataset, helping models generalize better and avoid overfitting.
+This project demonstrates how to perform **image augmentation** using TensorFlow/Keras. Image augmentation helps increase the diversity of a dataset by applying random transformations, which is useful for improving machine learning model performance.
+
 
 
 ---
