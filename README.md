@@ -4,7 +4,6 @@ This project demonstrates **image augmentation** using TensorFlow/Keras.
 Image augmentation is a key technique in **machine learning (ML)** and **deep learning (DL)** workflows, as it increases the size and diversity of the training dataset, helping models generalize better and avoid overfitting.
 
 
-
 ---
 
 ## Features
